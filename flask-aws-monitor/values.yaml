@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: your-dockerhub-username/flask-aws-monitor
+  repository: sbaransi/flask-aws-monitor
   pullPolicy: IfNotPresent
   tag: "latest"
 
