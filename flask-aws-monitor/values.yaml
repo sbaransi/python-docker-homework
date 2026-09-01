@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: sbaransi/flask-aws-monitor
+  repository: sammybaransi537/flask-aws-monitor
   pullPolicy: IfNotPresent
   tag: "latest"
 
