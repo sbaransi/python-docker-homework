@@ -1,0 +1,5 @@
+replicas: 2
+image: devops-flask-api
+tag: local
+port: 5000
+workers: 2
